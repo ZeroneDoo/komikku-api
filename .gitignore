@@ -1,0 +1,6 @@
+komiku-scrapper.iml
+.idea
+vendor
+fly.toml
+.vercel
+node_modules
